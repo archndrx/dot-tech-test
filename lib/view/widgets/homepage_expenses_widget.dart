@@ -37,7 +37,7 @@ class HomeExpenses extends StatelessWidget {
               height: 14,
             ),
             Text(
-              "Rp. ${nominal}",
+              nominal,
               style: whiteTextStyle.copyWith(
                 fontSize: 18,
                 fontWeight: bold,
