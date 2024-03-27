@@ -4,6 +4,8 @@ import 'package:google_fonts/google_fonts.dart';
 Color blackColor = const Color(0xFF333333);
 Color grayColor = const Color(0xFF828282);
 Color whiteColor = const Color(0xffFFFFFF);
+Color blueColor = const Color(0xff0A97B0);
+Color greenColor = const Color(0xff46B5A7);
 
 TextStyle blackTextStyle = GoogleFonts.sourceSans3(
   color: blackColor,
